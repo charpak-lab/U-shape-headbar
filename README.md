@@ -7,7 +7,9 @@ It provides the files to create the U shaped headbar used in the preparation pre
 
 ### GitHub repository
 
-+ **U-shaped-headbar.dwg**: The 3D design of the headbar.
++ **U-shaped-headbar.dwg**: 3D design of the headbar in dwg format.
++ **U-shaped-headbar.step**: 3D design of the headbar in step format.
++ **U-shaped-headbar.stl**: 3D printer ready stl file.
 + **FigureSup1_headbarcortex.pdf**: Technical drawing of the headbar as shown on supplementary figure 1.
 
 ## Compatibility
